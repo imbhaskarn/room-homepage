@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L20 0L20 20L0 20L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Delete-icon">
+    <path d="M0 0L20 0L20 20L0 20L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M0.898438 0L0 0.898438L5.48828 6.38672L0 11.875L0.898438 12.7734L6.38672 7.28516L11.875 12.7734L12.7734 11.875L7.28516 6.38672L12.7734 0.898438L11.875 0L6.38672 5.48828L0.898438 0Z" transform="translate(3.6132812 3.6132812)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
